@@ -1,0 +1,23 @@
+{
+
+    "rangeElements":{
+        
+        "ID_FUNCIO":{
+            "col":"5:5",
+            "row":"4",
+            "desc":"id del empleado"
+        },
+        "ID":{
+            "col":"7:7",
+            "row":"4",
+            "desc":"id del establecimiento"
+        },
+        "FECHA":{
+            "col":"23",
+            "row":"0",
+            "desc":"fecha del turno"
+        }
+    },
+    "subSchemaOfDate": ["HORA DE INGRESO", "HORA DE SALIDA", "TIEMPO PROGRAMADO", "VALORIZADO", "NOVEDAD"]
+
+}
