@@ -11,6 +11,7 @@
   "dependencies": {
     "base64-stream": "^1.0.0",
     "buffer": "^6.0.3",
+    "download-email-attachments": "^2.0.1",
     "file-system": "^2.2.2",
     "fs": "0.0.1-security",
     "imap": "^0.8.19",
